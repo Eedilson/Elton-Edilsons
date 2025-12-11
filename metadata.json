@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Secrets AI",
+  "description": "An all-in-one AI suite for YouTubers: Thumbnail downloading, AI Thumbnail generation using Nano Banana (Gemini 2.5 Flash Image), Channel Analysis, and Script Generation with content planning.",
+  "requestFramePermissions": []
+}
